@@ -1,0 +1,6 @@
+E:\training\Evlation-Revit\GetDimsionEndpoint\bin\Debug\GetDimsionEndpoint.dll
+E:\training\Evlation-Revit\GetDimsionEndpoint\bin\Debug\GetDimsionEndpoint.pdb
+E:\training\Evlation-Revit\GetDimsionEndpoint\obj\Debug\GetDimsionEndpoint.csproj.CoreCompileInputs.cache
+E:\training\Evlation-Revit\GetDimsionEndpoint\obj\Debug\GetDimsionEndpoint.dll
+E:\training\Evlation-Revit\GetDimsionEndpoint\obj\Debug\GetDimsionEndpoint.pdb
+E:\training\Evlation-Revit\GetDimsionEndpoint\obj\Debug\GetDimsionEndpoint.csprojResolveAssemblyReference.cache
